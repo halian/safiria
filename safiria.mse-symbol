@@ -1,0 +1,114 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Ellipse
+	combine: merge
+	point:
+		position: (0.6333333333,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.0736379703)
+		handle_after: (-0.0000000000,-0.0736379703)
+	point:
+		position: (0.5000000000,0.3666666667)
+		lock: size
+		line_after: curve
+		handle_before: (0.0736379703,0.0000000000)
+		handle_after: (-0.0736379703,-0.0000000000)
+	point:
+		position: (0.3666666667,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.0736379703)
+		handle_after: (-0.0000000000,0.0736379703)
+	point:
+		position: (0.5000000000,0.6333333333)
+		lock: size
+		line_after: curve
+		handle_before: (-0.0736379703,0.0000000000)
+		handle_after: (0.0736379703,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: subtract
+	point:
+		position: (0.7333333333,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.1288664480)
+		handle_after: (-0.0000000000,-0.1288664480)
+	point:
+		position: (0.5000000000,0.2666666667)
+		lock: size
+		line_after: curve
+		handle_before: (0.1288664480,0.0000000000)
+		handle_after: (-0.1288664480,-0.0000000000)
+	point:
+		position: (0.2666666667,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.1288664480)
+		handle_after: (-0.0000000000,0.1288664480)
+	point:
+		position: (0.5000000000,0.7333333333)
+		lock: size
+		line_after: curve
+		handle_before: (-0.1288664480,0.0000000000)
+		handle_after: (0.1288664480,-0.0000000000)
+part:
+	type: shape
+	name: Triangle
+	combine: merge
+	point:
+		position: (0.9666666667,0.5000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8000000000,0.6000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8000000000,0.4000000000)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Triangle
+	combine: merge
+	point:
+		position: (0.0333333333,0.5000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2000000000,0.4000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2000000000,0.6000000000)
+		lock: free
+		line_after: line
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Rectangle
+		combine: overlap
+		point:
+			position: (0.3333333333,0.2000000000)
+			lock: free
+			line_after: line
+			handle_before: (-0.2333333333,0.2000000000)
+		point:
+			position: (0.8333333333,0.5000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3333333333,0.8000000000)
+			lock: free
+			line_after: curve
+			handle_after: (-0.2333333333,-0.2000000000)
