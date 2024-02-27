@@ -632,7 +632,7 @@ blue
 Legendary Planeswalker — Mismar 
 
 
-+1: Tap or untap target permanent.<br>///br///-2: Tap target creature you don&#8217;t control. It doesn&#8217;t untap during its controller&#8217;s next untap step.<br>///br///-9: You get an emblem with &#8220;If a permanent an opponent controls would untap, you may draw a card instead.&#8221;<br>///br///Starting loyalty: 4
++1: &#8203;-2: -9: <br>///br///Starting loyalty: 4
 
 Azorias
 
@@ -6556,7 +6556,7 @@ colorless
 
 
 ===========
-normal
+token
 10/12
 0
 common
@@ -6579,7 +6579,7 @@ colorless
 
 
 ===========
-normal
+token
 11/12
 0
 common
@@ -6602,7 +6602,7 @@ colorless
 
 
 ===========
-normal
+token
 12/12
 0
 common
@@ -6625,7 +6625,7 @@ colorless
 
 
 ===========
-normal
+token
 3/12
 5
 common
@@ -6648,7 +6648,7 @@ colorless
 
 
 ===========
-normal
+token
 1/12
 0
 common
@@ -6671,7 +6671,7 @@ colorless
 
 
 ===========
-normal
+token
 4/12
 0
 common
@@ -6694,7 +6694,7 @@ colorless
 
 
 ===========
-normal
+token
 2/12
 0
 common
@@ -6717,7 +6717,7 @@ colorless
 
 
 ===========
-normal
+token
 5/12
 0
 common
@@ -6740,7 +6740,7 @@ colorless
 
 
 ===========
-normal
+token
 6/12
 0
 common
@@ -6763,7 +6763,7 @@ colorless
 
 
 ===========
-normal
+token
 7/12
 0
 common
@@ -6786,7 +6786,7 @@ colorless
 
 
 ===========
-normal
+token
 8/12
 0
 common
@@ -6809,7 +6809,7 @@ colorless
 
 
 ===========
-normal
+token
 9/12
 0
 common
